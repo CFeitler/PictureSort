@@ -1,0 +1,2 @@
+c:\users\christian.feitler\documents\visual studio 2015\Projects\PictureSortDesktop\PictureSortDesktop\bin\Debug\PictureSortDesktop.exe.config
+\\store-zdrive.fhs.fh-salzburg.ac.at\home\Desktop\PictureSort-master\PictureSort-master\PictureSortDesktop\PictureSortDesktop\bin\Debug\PictureSortDesktop.exe.config
